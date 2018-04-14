@@ -18,3 +18,7 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </center>
+
+# MealFeel
+
+An app that will list all the recipes that you can make, based on the ingredients you provide it with!
